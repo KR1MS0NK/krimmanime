@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+.fontstyle1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+    color: #7b14dc;
+    background-color: aqua;
+    align-content: center;
+
+}
+
+.mainstyle{
+    background-color: rgb(0, 0, 0);
+    padding: 30px; 
+}
+
+.bodystyle{
+    background-color: rgb(216, 2, 2);
+    margin-left: 20px;
+    margin-right: 20px;
+    align-content: center;
+}
+.h1{
+    text-align: center;
+    font-size: larger;
+    font-style:italic;
+}
+.intro{
+    border:solid;
+    border-color:beige; 
+    width: 400px;
+    padding:10px;
+    padding-left:10px;
+}
+ .search{
+     text-align : right;
+     color: #7b14dc;
+     background-color: black;
+}
